@@ -2,7 +2,7 @@
 <h3 align="center">Trying to become a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhi005&label=Profile%20Hits&color=0e75b6&style=flat-square" alt="Akhi005" /> </p>
-- 🔭 I’m fully Focused on Competitive Programming for now! Checkout My Solutions [StopStalk](https://www.stopstalk.com/user/profile/K_A_Akhi_)
+- 🔭 I’m fully Focused on Competitive Programming for now! Checkout My Solutions <a href="https://www.stopstalk.com/user/profile/K_A_Akhi_" target="blank">[StopStalk]</a>
 
 - 🌱 I’m also **Front End Developer!**
 
