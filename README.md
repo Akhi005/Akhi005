@@ -9,7 +9,7 @@
   - **Backend**: Node.js, Express.js, Firebase  
   - **Databases**: MongoDB, PostgreSQL
 
-- 💬 Ask me about **C,C++,JavaScript,Typescript,Data Structures and Algorithms**
+- 💬 Ask me about **C , C++ , JavaScript , Typescript , Data Structures and Algorithms**
 
 - 📫 Reach me at **kohinooraktherakhi5539@gmail.com**
 
