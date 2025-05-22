@@ -6,7 +6,7 @@
 
 - 🌱 I’m also **Full Stack Developer!**
 
-- 💬 Ask me about **C,C++,JavaScript,Typescript,Reactjs,Node.js,Next.js,Data Structures,Algorithms**
+- 💬 Ask me about **C,C++,JavaScript,Typescript,React.js,Node.js,Next.js,Data Structures,Algorithms**
 
 - 📫 Reach me at **kohinooraktherakhi5539@gmail.com**
 
