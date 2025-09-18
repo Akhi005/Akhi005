@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Kohinoor Akther Akhi</h1>
-<h3 align="center">Aspiring Software Engineer | Front End Developer | Competitive Programmer</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhi005&label=Profile%20Hits&color=0e75b6&style=flat-square" alt="Akhi005" /> </p>
 - 🔭I’m focused on Competitive Programming. Check out my solutions: <a href="https://www.stopstalk.com/user/profile/K_A_Akhi_" target="blank">[StopStalk]</a>
