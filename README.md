@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhi005&label=Profile%20Hits&color=0e75b6&style=flat-square" alt="Akhi005" /> </p>
-- 🔭I’m focused on Competitive Programming. Check out my solutions: <a href="https://www.stopstalk.com/user/profile/K_A_Akhi_" target="blank">[StopStalk]</a>
+- 🔭I’m focused on Competitive Programming.
 
 - 🌱 I’m also specializing in:  
   - **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, Figma
